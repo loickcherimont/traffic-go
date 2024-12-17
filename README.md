@@ -89,6 +89,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus condiment
 <!-- ## :test_tube: Features -->
 ## :test_tube: Improvements
 
+- Switch from JSON to struct using tmp **Fetch** struct ;
+- Create different a **Results** struct with all its fields ; 
 <!-- 
     LICENSE
     Write Developer name with used license
